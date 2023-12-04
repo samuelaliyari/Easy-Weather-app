@@ -31,7 +31,10 @@ body {
 }
 
 img {
-	margin: 0 auto;
+	margin: 1rem auto;
+	background-color: rgba(97, 184, 255, 0.811);
+	border-radius: 50%;
+	border: 1px solid rgb(255, 162, 0);
 }
 
 button {
